@@ -44,3 +44,16 @@
 ├── view/            # Telas principais como catálogo de filmes, seleção de poltronas, etc.
 └── viewmodel/       # Cubits para gerenciamento de estado e lógica de negócio
 ```
+
+##Printscreens
+
+![WhatsApp Image 2024-09-09 at 08 23 48(3)](https://github.com/user-attachments/assets/83c0a441-2f4a-404d-a74b-dd5f20d4d2c3)
+![WhatsApp Image 2024-09-09 at 08 23 48(2)](https://github.com/user-attachments/assets/e9220af4-1c11-4866-9e24-4e121d7ff7d1)
+![WhatsApp Image 2024-09-09 at 08 23 48](https://github.com/user-attachments/assets/778ee9b0-3844-4999-bb03-826fc743536f)
+![WhatsApp Image 2024-09-09 at 08 23 47](https://github.com/user-attachments/assets/0543adb2-d7de-45de-b325-f37139039b09)
+![WhatsApp Image 2024-09-09 at 08 23 47(1)](https://github.com/user-attachments/assets/740ffd62-8d39-4ca6-bf56-8451d58f2a35)
+![WhatsApp Image 2024-09-09 at 08 23 46(1)](https://github.com/user-attachments/assets/8e90580b-66a2-49b2-a6e3-a866873656e0)
+![WhatsApp Image 2024-09-09 at 08 23 48(1)](https://github.com/user-attachments/assets/867597be-4c6f-42c4-86b0-ebde7ee3880e)
+![WhatsApp Image 2024-09-09 at 08 23 46](https://github.com/user-attachments/assets/6137796b-827e-45bb-ad1c-298d76e7a1b6)
+
+
